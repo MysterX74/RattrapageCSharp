@@ -1,0 +1,12 @@
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\bin\Debug\net6.0\Rattrapages.deps.json
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\bin\Debug\net6.0\Rattrapages.dll
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\bin\Debug\net6.0\Rattrapages.pdb
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.csproj.AssemblyReference.cache
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.AssemblyInfoInputs.cache
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.AssemblyInfo.cs
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.csproj.CoreCompileInputs.cache
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.dll
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\refint\Rattrapages.dll
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\Rattrapages.pdb
+C:\Users\Maix\source\repos\RattrapageCSharp\Rattrapages\Rattrapages\obj\Debug\net6.0\ref\Rattrapages.dll
